@@ -1,0 +1,53 @@
+body {
+  background-color: #222222;
+  color: #ffffff;
+  font-family: "Arial", sans-serif;
+  padding: 10px;
+  margin: 0;
+}
+
+h1 {
+  font-size: 16px;
+  margin: 0;
+  line-height: 1;
+  font-weight: normal;
+}
+
+p,
+.text-link,
+.social-link {
+  font-size: 16px;
+  margin: 0;
+  line-height: 1;
+}
+
+.text-link {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.text-link:hover {
+  text-decoration: underline;
+}
+
+.social-links {
+  margin-top: 5px;
+}
+
+.social-link {
+  margin: 0 10px;
+  color: #3498db;
+  text-decoration: none;
+}
+
+.social-link:hover {
+  text-decoration: underline;
+}
+
+.line-spaced {
+  margin-bottom: 10px;
+}
+
+.line-double-spaced {
+  margin-bottom: 10px;
+}
